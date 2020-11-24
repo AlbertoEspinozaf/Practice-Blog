@@ -1,0 +1,52 @@
+body {
+  background-color: #dbf6e9;
+}
+hr {
+  border-style: none none;
+  width: 8%;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 8px;
+  
+}
+h1 {
+    font-size: 40px;
+    font-family: cursive;
+    text-shadow: 4px 4px 5px #62bc8d;
+    
+  }
+h3 {
+    font-size: 20px;
+    color: #0e918c;
+}
+p {
+  font-family: monospace;
+  
+}
+
+ul {
+  font-family: monospace;
+}
+
+ol {
+  font-family: monospace;
+}
+
+a {
+  font-family: monospace;
+}
+
+.fecha-inicio {
+    font-size: 9px;
+    font-style: oblique;
+}
+
+#home {
+  border: 2px solid #121d17d1;
+  padding: 2px 8px;
+  border-radius: 4px;
+  text-decoration: none;
+  background-color: aliceblue;
+  text-decoration-color: black;
+  color: black;
+}
